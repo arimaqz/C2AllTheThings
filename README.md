@@ -467,6 +467,7 @@ First and foremost, we have to start the tunnel:
 ![code](./images/code-1.png)
 
 Afterwards we have to authorize through github:
+
 ![code](./images/code-2.png)
 
 Thereafter we have a working tunnel where we can execute code remotely in the browser as well as execute commands through the built-in terminal:
